@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html class="login-bg" lang="es">
 <head>
-    <title>Iniciar Sesion</title>
+    <title>Iniciar Sesion ESPE</title>
     <meta http-equiv="Content-Type" content="text/html; charset=uft-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -42,7 +42,7 @@
                 <div class="content-wrap">
                     <h6>Iniciar Sesion</h6>
                     <input name="usuario" id="usuario" class="form-control" type="text" placeholder="Usuario" required autofocus>
-                    <input name="contra" id="contra" class="form-control" type="password" placeholder="Contrase�a" required>                
+                    <input name="contra" id="contra" class="form-control" type="password" placeholder="Contrasena" required>                
                     <div class="action">
                         <button class="btn-flat" id="submit">Iniciar Sesion</button>
                     </div>                
